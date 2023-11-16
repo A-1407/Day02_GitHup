@@ -19,5 +19,6 @@ public class Day02_GitGithup {
         Not;Bu iki komutu tek seferde kullandiktan sonra ikinci commitlerim icin bir defa
         sadece --git push--
          */
+        System.out.println("GitHup'da Ogrendim{}");
     }
 }
