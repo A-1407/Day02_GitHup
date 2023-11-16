@@ -15,7 +15,7 @@ public class Day02_GitGithup {
         5} git push -> Uzak repo'ya - GitHup'a gonderdigimiz komut
         Yalniz git push komudunu direk kullanmak istersek bir Kez;
                        git remote add origin adress
-                       git push -u master
+                       git push -u origin master
         Not;Bu iki komutu tek seferde kullandiktan sonra ikinci commitlerim icin bir defa
         sadece --git push--
 
