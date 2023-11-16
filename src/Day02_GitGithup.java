@@ -18,6 +18,8 @@ public class Day02_GitGithup {
                        git push -u master
         Not;Bu iki komutu tek seferde kullandiktan sonra ikinci commitlerim icin bir defa
         sadece --git push--
+
+        Not; git log --oneline --> Commitlerdeki yani versiyonlarimdaki durumunu gosterir
          */
         System.out.println("GitHup'da Ogrendim{}");
     }
