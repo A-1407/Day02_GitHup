@@ -20,7 +20,9 @@ public class Day02_GitGithup {
         sadece --git push--
 
         Not; git log --oneline --> Commitlerdeki yani versiyonlarimdaki durumunu gosterir
+        Sen Kral'sin
          */
         System.out.println("GitHup'da Ogrendim{}");
+        
     }
 }
